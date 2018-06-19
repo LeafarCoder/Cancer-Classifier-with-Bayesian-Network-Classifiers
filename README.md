@@ -10,6 +10,7 @@ Once learning is complete the classifier can be uploaded and a patient's record 
 Although this classifier can be used for many medical prognostic studies, such as breast cancer, diabetes or hepatitis its design is not limited to the realm of Medicine. Actually, one could input data from other areas and the program would work as well, in this case relating the new variables to the given outputs and training in a new unknown field.
 
 Developer: Rafael Correia
+<br>
 Last update: 19/06/2018
 
 </html>
