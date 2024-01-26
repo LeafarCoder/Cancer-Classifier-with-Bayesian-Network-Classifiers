@@ -14,3 +14,5 @@ Developer: Rafael Correia
 Last update: 19/06/2018
 
 </html>
+
+<img src="/Images/Learner%20Interface/upload_data_sample.PNG" alt="drawing" width="300"/>
