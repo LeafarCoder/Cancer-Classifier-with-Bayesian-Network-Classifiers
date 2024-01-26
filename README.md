@@ -6,8 +6,15 @@ Once learning is complete a patient's record can be inserted to compute the canc
 Although this classifier can be used for many medical prognostic studies (breast cancer, diabetes, hepatitis, ...) its design is not limited to the realm of Medicine.
 One could input data from other areas and the program would work as well, in this case relating the new variables to the given outputs and training in a new unknown field.
 
-Classifier Learner Interface:
+## Classifier Learner Interface
+
 <img src="/Images/Learner%20Interface/upload_data_sample.PNG" alt="drawing" width="700"/>
+
+## Classifier Learner Interface
+
+<img src="/Images/Diagnosis%20Interface/perform_diagnose.PNG" alt="drawing" width="700"/>
+
+## About
 
 Developer: Rafael Correia
 
