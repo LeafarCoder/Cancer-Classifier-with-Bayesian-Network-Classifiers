@@ -12,7 +12,7 @@ One could input data from other areas and the program would work as well, in thi
 
 ## Classifier Learner Interface
 
-<img src="/Images/Diagnosis%20Interface/perform_diagnose.PNG" alt="drawing" width="700"/>
+<img src="/Images/Diagnosis%20Interface/perform_diagnose.PNG" alt="drawing" width="400"/>
 
 ## About
 
